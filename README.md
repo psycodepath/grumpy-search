@@ -1,8 +1,8 @@
 # Grumpy Search
 
 ## About
-This is a proof of concept for a claim id did on [mastodon](https://mastodon.social/@psycodepath/109796986115923657). 
-As i always wanted to try an easy to deploy
+This is a proof of concept for a claim i did on [mastodon](https://mastodon.social/@psycodepath/109796986115923657). 
+As i always wanted to try an easy to deploy search for my projects
 
 ### Usage
 1. build the index ```bash  make index``` (*hint make sure there is no previous index called grumpy.bleve here*)
